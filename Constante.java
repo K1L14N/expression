@@ -1,4 +1,4 @@
-public class Constante extends ExpAbstraite {
+public class Constante extends ExpAbstraite implements Evaluable {
     
     private double valeur;
 
@@ -12,6 +12,11 @@ public class Constante extends ExpAbstraite {
 
     /*une fois arrive au type variable, on va evaluer et retourner la valeur associee au nom*/
     public double evaluer(Env env) {
+	return this.getValeur();
+    }
+
+    @Override
+    public double evaluer() {
 	return this.getValeur();
     }
 
