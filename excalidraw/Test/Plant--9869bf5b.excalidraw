@@ -952,6 +952,1124 @@
       "originalText": "Another authentication Response",
       "autoResize": true,
       "lineHeight": 1.2
+    },
+    {
+      "id": "5-ulMjhVoOkAzqiX4EzSh",
+      "type": "rectangle",
+      "x": 536.966954942807,
+      "y": 100.99842554139087,
+      "width": 8,
+      "height": 136.5313,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#000000",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aO",
+      "roundness": null,
+      "seed": 182847228,
+      "version": 28,
+      "versionNonce": 1394796412,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      }
+    },
+    {
+      "id": "PRONmxrKOWooSMXVxFCae",
+      "type": "line",
+      "x": 540.133454942807,
+      "y": 100.99842554139087,
+      "width": 0,
+      "height": 136.5312,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aP",
+      "roundness": null,
+      "seed": 1124321148,
+      "version": 28,
+      "versionNonce": 567318524,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          136.5312
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "2rBi653P8E7aDLg7Uipyx",
+      "type": "rectangle",
+      "x": 778.520154942807,
+      "y": 100.99842554139087,
+      "width": 8,
+      "height": 136.5313,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#000000",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aQ",
+      "roundness": null,
+      "seed": 580220924,
+      "version": 28,
+      "versionNonce": 544487548,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      }
+    },
+    {
+      "id": "GbDTto_Dk1SSWXcq2BtDR",
+      "type": "line",
+      "x": 781.9918549428071,
+      "y": 100.99842554139087,
+      "width": 0,
+      "height": 136.5312,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aR",
+      "roundness": null,
+      "seed": 1973229692,
+      "version": 28,
+      "versionNonce": 986695932,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          136.5312
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "rEMYJRUqgzTjWxif2Auqv",
+      "type": "rectangle",
+      "x": 517.133454942807,
+      "y": 69.70152554139088,
+      "width": 47.667,
+      "height": 30.2969,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "#E2E2F0",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aS",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 937208060,
+      "version": 28,
+      "versionNonce": 342182268,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      }
+    },
+    {
+      "id": "JtgEwtAiEHuPPnXY0xUZA",
+      "type": "text",
+      "x": 524.133454942807,
+      "y": 78.49662554139087,
+      "width": 41.015625,
+      "height": 16.8,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aT",
+      "roundness": null,
+      "seed": 483797372,
+      "version": 28,
+      "versionNonce": 276216316,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "text": "Alice",
+      "fontSize": 14,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Alice",
+      "autoResize": true,
+      "lineHeight": 1.2
+    },
+    {
+      "id": "tpGobT-_DJNr3MsLKaEZS",
+      "type": "rectangle",
+      "x": 517.133454942807,
+      "y": 236.52962554139089,
+      "width": 47.667,
+      "height": 30.296899999999994,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "#E2E2F0",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aU",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 399219196,
+      "version": 28,
+      "versionNonce": 1510349436,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      }
+    },
+    {
+      "id": "bJB8ZONHirx6GHEEImVOq",
+      "type": "text",
+      "x": 524.133454942807,
+      "y": 245.32472554139088,
+      "width": 41.015625,
+      "height": 16.8,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aV",
+      "roundness": null,
+      "seed": 1673460348,
+      "version": 28,
+      "versionNonce": 1809148668,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "text": "Alice",
+      "fontSize": 14,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Alice",
+      "autoResize": true,
+      "lineHeight": 1.2
+    },
+    {
+      "id": "D4DAFP_k_nazu6FfgIgGP",
+      "type": "rectangle",
+      "x": 761.991854942807,
+      "y": 69.70152554139088,
+      "width": 41.056599999999975,
+      "height": 30.2969,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "#E2E2F0",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aW",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 192039676,
+      "version": 28,
+      "versionNonce": 409381756,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      }
+    },
+    {
+      "id": "BzRL5Kyo5y5OvOg1FzFWP",
+      "type": "text",
+      "x": 768.9918549428071,
+      "y": 78.49662554139087,
+      "width": 24.609375,
+      "height": 16.8,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aX",
+      "roundness": null,
+      "seed": 1902611324,
+      "version": 28,
+      "versionNonce": 301718524,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "text": "Bob",
+      "fontSize": 14,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Bob",
+      "autoResize": true,
+      "lineHeight": 1.2
+    },
+    {
+      "id": "IQie-0IHzsE4awfOi8vrE",
+      "type": "rectangle",
+      "x": 761.991854942807,
+      "y": 236.52962554139089,
+      "width": 41.056599999999975,
+      "height": 30.296899999999994,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "#E2E2F0",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aY",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1474345980,
+      "version": 28,
+      "versionNonce": 1922497660,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      }
+    },
+    {
+      "id": "e89ITVGf_tSeguPqCW57N",
+      "type": "text",
+      "x": 768.9918549428071,
+      "y": 245.32472554139088,
+      "width": 24.609375,
+      "height": 16.8,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aZ",
+      "roundness": null,
+      "seed": 1759501436,
+      "version": 28,
+      "versionNonce": 1140460796,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "text": "Bob",
+      "fontSize": 14,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Bob",
+      "autoResize": true,
+      "lineHeight": 1.2
+    },
+    {
+      "id": "fiC_JCFgAAwBBl4N5ncSs",
+      "type": "line",
+      "x": 770.520154942807,
+      "y": 128.1312255413909,
+      "width": 10,
+      "height": 8,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "#181818",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aa",
+      "roundness": null,
+      "seed": 1042738428,
+      "version": 28,
+      "versionNonce": 128388476,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          10,
+          4
+        ],
+        [
+          0,
+          8
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "9fPPBR7tig3tzsthQeHHv",
+      "type": "line",
+      "x": 540.966954942807,
+      "y": 132.1312255413909,
+      "width": 235.5532,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ab",
+      "roundness": null,
+      "seed": 1765272956,
+      "version": 28,
+      "versionNonce": 1054866940,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          235.5532,
+          0
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "uw6Gtw2anlEH87LVQCv6e",
+      "type": "text",
+      "x": 547.966954942807,
+      "y": 116.66532554139087,
+      "width": 38.0859375,
+      "height": 15.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ac",
+      "roundness": null,
+      "seed": 2069159420,
+      "version": 33,
+      "versionNonce": 1742497404,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365410187,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "text": "22222",
+      "fontSize": 13,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "22222",
+      "autoResize": true,
+      "lineHeight": 1.2
+    },
+    {
+      "id": "XhmvmJpgTJ7aLcSvJXZcS",
+      "type": "line",
+      "x": 551.966954942807,
+      "y": 157.26402554139088,
+      "width": 10,
+      "height": 8,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "#181818",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ad",
+      "roundness": null,
+      "seed": 226475644,
+      "version": 28,
+      "versionNonce": 1002286844,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -10,
+          4
+        ],
+        [
+          0,
+          8
+        ],
+        [
+          -4,
+          4
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "pagbjpIH5bjxrcf6HevMp",
+      "type": "line",
+      "x": 545.966954942807,
+      "y": 161.26402554139088,
+      "width": 235.5532,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ae",
+      "roundness": null,
+      "seed": 1215991548,
+      "version": 28,
+      "versionNonce": 1252421500,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          235.5532,
+          0
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "ppFwzucx1asi1z-0BPdg4",
+      "type": "text",
+      "x": 557.966954942807,
+      "y": 145.79812554139085,
+      "width": 175.1953125,
+      "height": 15.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "af",
+      "roundness": null,
+      "seed": 1825001340,
+      "version": 28,
+      "versionNonce": 1872961532,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "text": "Authentication Response",
+      "fontSize": 13,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Authentication Response",
+      "autoResize": true,
+      "lineHeight": 1.2
+    },
+    {
+      "id": "4Eif1q73j5PGYjSfwndwc",
+      "type": "line",
+      "x": 770.520154942807,
+      "y": 186.39682554139085,
+      "width": 10,
+      "height": 8,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "#181818",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ag",
+      "roundness": null,
+      "seed": 1520959484,
+      "version": 28,
+      "versionNonce": 582336636,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          10,
+          4
+        ],
+        [
+          0,
+          8
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "AhDA1HtjqTe-k7ix-5t0B",
+      "type": "line",
+      "x": 540.966954942807,
+      "y": 190.39682554139085,
+      "width": 235.5532,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ah",
+      "roundness": null,
+      "seed": 438214780,
+      "version": 28,
+      "versionNonce": 195055868,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          235.5532,
+          0
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "K5e1j5YINZPnT_A8MX045",
+      "type": "text",
+      "x": 547.966954942807,
+      "y": 174.93092554139088,
+      "width": 228.515625,
+      "height": 15.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ai",
+      "roundness": null,
+      "seed": 1659711740,
+      "version": 28,
+      "versionNonce": 165990780,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "text": "Another authentication Request",
+      "fontSize": 13,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Another authentication Request",
+      "autoResize": true,
+      "lineHeight": 1.2
+    },
+    {
+      "id": "JWo7-fonm0btP0HfBE3B3",
+      "type": "line",
+      "x": 551.966954942807,
+      "y": 215.52962554139089,
+      "width": 10,
+      "height": 8,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "#181818",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aj",
+      "roundness": null,
+      "seed": 613790076,
+      "version": 28,
+      "versionNonce": 1019560444,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -10,
+          4
+        ],
+        [
+          0,
+          8
+        ],
+        [
+          -4,
+          4
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "JIFrqIm0v-AJYPFmkT9VF",
+      "type": "line",
+      "x": 545.966954942807,
+      "y": 219.52962554139089,
+      "width": 235.5532,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#181818",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "dashed",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "ak",
+      "roundness": null,
+      "seed": 240787964,
+      "version": 28,
+      "versionNonce": 188981884,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          235.5532,
+          0
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "mWTte_Fd7tT33RDC3fIGS",
+      "type": "text",
+      "x": 557.966954942807,
+      "y": 204.0637255413909,
+      "width": 236.1328125,
+      "height": 15.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "al",
+      "roundness": null,
+      "seed": 389841532,
+      "version": 28,
+      "versionNonce": 740422396,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778365408370,
+      "link": null,
+      "locked": false,
+      "customData": {
+        "excalidrawSource": {
+          "id": "src_uCYBVObDCSnYLs2IZNe5s",
+          "kind": "plantuml",
+          "text": "@startuml\nAlice -> Bob: Authentication Request\nBob --> Alice: Authentication Response\n\nAlice -> Bob: Another authentication Request\nAlice <-- Bob: Another authentication Response\n@enduml"
+        }
+      },
+      "text": "Another authentication Response",
+      "fontSize": 13,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Another authentication Response",
+      "autoResize": true,
+      "lineHeight": 1.2
     }
   ],
   "appState": {
