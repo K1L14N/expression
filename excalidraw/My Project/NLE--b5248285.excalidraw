@@ -1,0 +1,109 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "http://localhost:3001",
+  "elements": [
+    {
+      "id": "xouSZD0qxJsH8flK2p6O2",
+      "type": "rectangle",
+      "x": 468.29296875,
+      "y": 345.109375,
+      "width": 305.16796875,
+      "height": 149.5703125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1661952800,
+      "version": 16,
+      "versionNonce": 1092764448,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1778355536416,
+      "link": null,
+      "locked": false
+    }
+  ],
+  "appState": {
+    "showWelcomeScreen": true,
+    "theme": "light",
+    "currentItemBackgroundColor": "transparent",
+    "currentItemEndArrowhead": "arrow",
+    "currentItemFillStyle": "solid",
+    "currentItemFontFamily": 5,
+    "currentItemFontSize": 20,
+    "currentItemOpacity": 100,
+    "currentItemRoughness": 1,
+    "currentItemStartArrowhead": null,
+    "currentItemStrokeColor": "#1e1e1e",
+    "currentItemRoundness": "round",
+    "currentItemArrowType": "round",
+    "currentItemStrokeStyle": "solid",
+    "currentItemStrokeWidth": 2,
+    "currentItemTextAlign": "left",
+    "cursorButton": "up",
+    "editingGroupId": null,
+    "activeTool": {
+      "type": "selection",
+      "customType": null,
+      "locked": false,
+      "fromSelection": false,
+      "lastActiveTool": null
+    },
+    "preferredSelectionTool": {
+      "type": "selection",
+      "initialized": true
+    },
+    "penMode": false,
+    "penDetected": false,
+    "exportBackground": true,
+    "exportScale": 1,
+    "exportEmbedScene": false,
+    "exportWithDarkMode": false,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "isBindingEnabled": true,
+    "bindingPreference": "enabled",
+    "isMidpointSnappingEnabled": true,
+    "defaultSidebarDockedPreference": false,
+    "lastPointerDownWith": "mouse",
+    "name": "Sans-titre-2026-05-09-2049",
+    "openMenu": null,
+    "openSidebar": null,
+    "previousSelectedElementIds": {},
+    "scrolledOutside": false,
+    "scrollX": 0,
+    "scrollY": 0,
+    "selectedElementIds": {
+      "xouSZD0qxJsH8flK2p6O2": true
+    },
+    "selectedGroupIds": {},
+    "shouldCacheIgnoreZoom": false,
+    "stats": {
+      "open": false,
+      "panels": 3
+    },
+    "viewBackgroundColor": "#ffffff",
+    "zenModeEnabled": false,
+    "zoom": {
+      "value": 1
+    },
+    "selectedLinearElement": null,
+    "objectsSnapModeEnabled": false,
+    "lockedMultiSelections": {},
+    "bindMode": "orbit",
+    "boxSelectionMode": "contain"
+  },
+  "files": {}
+}
