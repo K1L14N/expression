@@ -4,12 +4,12 @@
   "source": "http://localhost:3001",
   "elements": [
     {
-      "id": "u8FnWSLIIGhED6Rmg1Aaw",
-      "type": "diamond",
-      "x": 750.9140625,
-      "y": 240.328125,
-      "width": 299.91015625,
-      "height": 395.42578125,
+      "id": "xouSZD0qxJsH8flK2p6O2",
+      "type": "rectangle",
+      "x": 468.29296875,
+      "y": 345.109375,
+      "width": 305.16796875,
+      "height": 149.5703125,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -22,14 +22,14 @@
       "frameId": null,
       "index": "a0",
       "roundness": {
-        "type": 2
+        "type": 3
       },
-      "seed": 2028763872,
-      "version": 18,
-      "versionNonce": 1042628320,
+      "seed": 1661952800,
+      "version": 16,
+      "versionNonce": 1092764448,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1778355556175,
+      "boundElements": [],
+      "updated": 1778355536416,
       "link": null,
       "locked": false
     }
